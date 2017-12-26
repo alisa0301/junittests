@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorDivideTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-12-26T14:49:35" hostname="MacBook-Pro-Alisa.local" time="0.02">
+  <properties/>
+  <testcase name="divideOnZeroTest" classname="CalculatorDivideTest" time="0.013"/>
+  <testcase name="dividePositiveTest" classname="CalculatorDivideTest" time="0.001"/>
+  <testcase name="divideOnStringTest" classname="CalculatorDivideTest" time="0.006"/>
+  <system-out><![CDATA[Какое-то действие перед всеми тестами!
+Калькулятор создан!
+Какое-то действие после каждого теста
+Калькулятор создан!
+Какое-то действие после каждого теста
+Калькулятор создан!
+Какое-то действие после каждого теста
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
